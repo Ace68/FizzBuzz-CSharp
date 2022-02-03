@@ -1,0 +1,10 @@
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\bin\Debug\netstandard2.1\FizzBuzz.deps.json
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\bin\Debug\netstandard2.1\FizzBuzz.dll
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\bin\Debug\netstandard2.1\FizzBuzz.pdb
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.csproj.AssemblyReference.cache
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.AssemblyInfoInputs.cache
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.AssemblyInfo.cs
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.dll
+c:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz\obj\Debug\netstandard2.1\FizzBuzz.pdb

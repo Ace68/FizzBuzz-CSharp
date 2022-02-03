@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FizzBuzz.Test
+build_property.ProjectDir = C:\Sviluppo\Kata\FizzBuzz-CSharp\FizzBuzz.Test\

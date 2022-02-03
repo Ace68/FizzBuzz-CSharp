@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c141d657-3eec-4ec9-b9c1-26e8370292ca": {
+      "ProjectGuid": "c141d657-3eec-4ec9-b9c1-26e8370292ca",
+      "DisplayName": "FizzBuzz.Test",
+      "ColorIndex": 0
+    },
+    "75c4a332-70c8-4525-90a8-a1333c7b51c7": {
+      "ProjectGuid": "75c4a332-70c8-4525-90a8-a1333c7b51c7",
+      "DisplayName": "FizzBuzz",
+      "ColorIndex": 1
+    },
+    "b7ccb3bf-c7cb-4024-8748-c41a27acdd88": {
+      "ProjectGuid": "b7ccb3bf-c7cb-4024-8748-c41a27acdd88",
+      "DisplayName": "FizzBuzz.App",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
